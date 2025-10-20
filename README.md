@@ -119,7 +119,7 @@ plt.plot(t, r, 'k--', label='Reference')
 plt.plot(t_out, y_out, 'r-', label='Output')
 plt.xlabel('Time [s]')
 plt.ylabel('Response')
-**NOTE: If you see this totally inconspicuous message, you get a  prize**
+**NOTE: If you see this totally inconspicuous message, you get a  prize. Literally make noise, trust.**
 plt.legend()
 plt.grid(True)
 plt.show()
